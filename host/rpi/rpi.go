@@ -72,7 +72,13 @@ var ledMap = embd.LEDMap{
 	"led0": []string{"0", "led0", "LED0"},
 }
 
+/*
 func init() {
+
+}
+*/
+
+func HostInit() {
 	embd.Register(embd.HostRPi, func(rev int) *embd.Descriptor {
 		// Refer to http://elinux.org/RPi_HardwareHistory#Board_Revision_History
 		// for details.
