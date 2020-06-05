@@ -4,8 +4,8 @@ package mcp4725
 import (
 	"sync"
 
+	"github.com/alittlebrighter/embd"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd"
 )
 
 const (

@@ -5,8 +5,9 @@ package main
 import (
 	"fmt"
 	"time"
-	"github.com/kidoman/embd"
-	"github.com/kidoman/embd/interface/keypad/matrix4x3"
+
+	"github.com/alittlebrighter/embd"
+	"github.com/alittlebrighter/embd/interface/keypad/matrix4x3"
 )
 
 func main() {

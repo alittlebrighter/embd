@@ -15,9 +15,9 @@ import (
 	"os"
 	"strings"
 
+	"github.com/alittlebrighter/embd"
+	"github.com/alittlebrighter/embd/host/generic"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd"
-	"github.com/kidoman/embd/host/generic"
 )
 
 var pins = embd.PinMap{

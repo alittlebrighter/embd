@@ -4,8 +4,8 @@ package watersensor
 import (
 	"sync"
 
+	"github.com/alittlebrighter/embd"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd"
 )
 
 // WaterSensor represents a water sensor.

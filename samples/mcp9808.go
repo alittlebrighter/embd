@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kidoman/embd"
-	_ "github.com/kidoman/embd/host/rpi"
-	"github.com/kidoman/embd/sensor/mcp9808"
+	"github.com/alittlebrighter/embd"
+	_ "github.com/alittlebrighter/embd/host/rpi"
+	"github.com/alittlebrighter/embd/sensor/mcp9808"
 )
 
 func main() {

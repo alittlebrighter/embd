@@ -2,8 +2,8 @@
 package mcp3008
 
 import (
+	"github.com/alittlebrighter/embd"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd"
 )
 
 // MCP3008 represents a mcp3008 8bit DAC.

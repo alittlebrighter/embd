@@ -6,10 +6,10 @@ import (
 	"flag"
 	"time"
 
-	"github.com/kidoman/embd"
-	"github.com/kidoman/embd/controller/hd44780"
+	"github.com/alittlebrighter/embd"
+	"github.com/alittlebrighter/embd/controller/hd44780"
 
-	_ "github.com/kidoman/embd/host/all"
+	_ "github.com/alittlebrighter/embd/host/all"
 )
 
 func main() {

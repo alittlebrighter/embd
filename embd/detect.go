@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/alittlebrighter/embd"
 	"github.com/codegangsta/cli"
-	"github.com/kidoman/embd"
 )
 
 func detect(c *cli.Context) {

@@ -3,7 +3,7 @@
 // http://ww1.microchip.com/downloads/en/DeviceDoc/25095A.pdf
 package mcp9808
 
-import "github.com/kidoman/embd"
+import "github.com/alittlebrighter/embd"
 
 const (
 	// default I2C address for device

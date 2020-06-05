@@ -6,9 +6,9 @@ import (
 	"flag"
 	"time"
 
-	"github.com/kidoman/embd"
+	"github.com/alittlebrighter/embd"
 
-	_ "github.com/kidoman/embd/host/all"
+	_ "github.com/alittlebrighter/embd/host/all"
 )
 
 func main() {
